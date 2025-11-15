@@ -21,7 +21,7 @@ For easier editing you can use a text editor like [Poedit](https://poedit.net/)
 
 ### Contributors
 
-[givanz](https://github.com/givanz)
+[Giacomo](https://github.com/eagleman)
 
 ### License
 

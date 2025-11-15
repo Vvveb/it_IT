@@ -2,19 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: it_IT\n"
-"Language-Team: \n"
-"Last-Translator: vvveb\n"
-"MIME-Version: 1.0\n"
-"PO-Revision-Date: 2025-10-17 11:02+0300\n"
 "POT-Creation-Date: 2025-10-17 02:57+0300\n"
+"PO-Revision-Date: 2025-11-15 10:43+0100\n"
+"Last-Translator: vvveb\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Vvveb\n"
+"X-Generator: Poedit 3.8\n"
 
 msgid "Vvveb install"
-msgstr "Installazione Vvveb"
+msgstr "Installazione di Vvveb"
 
 msgid "Switch color theme"
 msgstr "Cambia tema colore"
@@ -23,7 +23,7 @@ msgid "English"
 msgstr "Inglese"
 
 msgid "Romanian"
-msgstr "rumeno"
+msgstr "Rumeno"
 
 msgid "Minimum requirements not met"
 msgstr "Requisiti minimi non soddisfatti"
@@ -77,10 +77,10 @@ msgid "license"
 msgstr "licenza"
 
 msgid "Continue install"
-msgstr "Continua l&#39;installazione"
+msgstr "Continua l'installazione"
 
 msgid "These can be later changed from admin."
-msgstr "Questi potranno essere modificati in seguito dall&#39;amministratore."
+msgstr "Questi potranno essere modificati in seguito dall'amministratore."
 
 msgid "Primary language"
 msgstr "Lingua principale"
@@ -116,16 +116,16 @@ msgid "Admin login path"
 msgstr "Percorso di accesso amministratore"
 
 msgid "Works only if web server document root is /public otherwise the login path is always /admin"
-msgstr "Funziona solo se la radice del documento del server web è /public, altrimenti il percorso di accesso è sempre /admin"
+msgstr "Funziona solo se la cartella root del server web è /public, altrimenti il percorso di accesso è sempre /admin"
 
 msgid "If possible set your document root to /public for better security"
-msgstr "Se possibile, imposta la radice del documento su /public per una maggiore sicurezza"
+msgstr "Se possibile, imposta la cartella root su /public per una maggiore sicurezza"
 
 msgid "Secure install documentation"
 msgstr "Documentazione di installazione sicura"
 
 msgid "Disable ecommerce"
-msgstr "Disabilitare l&#39;e-commerce"
+msgstr "Disabilita l'e-commerce"
 
 msgid "(It can be enabled later)"
 msgstr "(Può essere abilitato in seguito)"
@@ -137,13 +137,13 @@ msgid "Theme name"
 msgstr "Nome del tema"
 
 msgid "Install"
-msgstr "Installare"
+msgstr "Installa"
 
 msgid "Preview"
 msgstr "Anteprima"
 
 msgid "Finish install"
-msgstr "Completa l&#39;installazione"
+msgstr "Completa l'installazione"
 
 msgid "Page not found!"
 msgstr "Pagina non trovata!"
@@ -152,10 +152,10 @@ msgid "The page you are looking for is not available."
 msgstr "La pagina che stai cercando non è disponibile."
 
 msgid "Your installation is probably broken, reinstall the application"
-msgstr "Probabilmente l&#39;installazione è danneggiata, reinstalla l&#39;applicazione"
+msgstr "Probabilmente l'installazione è danneggiata, reinstalla l'applicazione"
 
 msgid "Reinstall"
-msgstr "Reinstallare"
+msgstr "Reinstalla"
 
 msgid "Error"
 msgstr "Errore"
@@ -182,7 +182,7 @@ msgid "on line"
 msgstr "in linea"
 
 msgid "Vvveb - Dasboard"
-msgstr "Vvveb - Dasboard"
+msgstr "Vvveb - Pannello di controllo"
 
 msgid "Switch sidebar color theme"
 msgstr "Cambia il tema del colore della barra laterale"
@@ -230,10 +230,10 @@ msgid "Add new page"
 msgstr "Aggiungi nuova pagina"
 
 msgid "Menus"
-msgstr "Menù"
+msgstr "Menu"
 
 msgid "Media library"
-msgstr "Mediateca"
+msgstr "Libreria multimediale"
 
 msgid "Users"
 msgstr "Utenti"
@@ -254,10 +254,10 @@ msgid "Messages"
 msgstr "Messaggi"
 
 msgid "Ecommerce"
-msgstr "Commercio elettronico"
+msgstr "E-commerce"
 
 msgid "Sales"
-msgstr "Saldi"
+msgstr "Vendite"
 
 msgid "Orders"
 msgstr "Ordini"
@@ -302,7 +302,7 @@ msgid "Attributes"
 msgstr "Attributi"
 
 msgid "User feedback"
-msgstr "Feedback degli utenti"
+msgstr "Opinioni degli utenti"
 
 msgid "Reviews"
 msgstr "Recensioni"
@@ -380,7 +380,7 @@ msgid "Tax types"
 msgstr "Tipi di tasse"
 
 msgid "Tax rates"
-msgstr "aliquote fiscali"
+msgstr "Aliquote fiscali"
 
 msgid "Statuses"
 msgstr "Stati"
@@ -392,7 +392,7 @@ msgid "Stock"
 msgstr "Azione"
 
 msgid "Subscription"
-msgstr "Sottoscrizione"
+msgstr "Abbonamento"
 
 msgid "Return status"
 msgstr "Stato del reso"
@@ -440,7 +440,7 @@ msgid "Email settings"
 msgstr "Impostazioni e-mail"
 
 msgid "Tools"
-msgstr "Utensili"
+msgstr "Strumenti"
 
 msgid "Cache"
 msgstr "Cache"
@@ -494,7 +494,7 @@ msgid "Templates"
 msgstr "Modelli"
 
 msgid "Database"
-msgstr "Banca dati"
+msgstr "Database"
 
 msgid "Page cache"
 msgstr "Cache della pagina"
@@ -536,7 +536,7 @@ msgid "Default site"
 msgstr "Sito predefinito"
 
 msgid "Live"
-msgstr "Vivere"
+msgstr "Dal vivo"
 
 msgid "Maintenance"
 msgstr "Manutenzione"
@@ -569,7 +569,7 @@ msgid "Update now"
 msgstr "Aggiorna ora"
 
 msgid "You successfully read this important alert message."
-msgstr "Hai letto correttamente questo importante messaggio di avviso."
+msgstr "Hai letto correttamente questo importante messaggio di allerta."
 
 msgid "You successfully read this important warning message."
 msgstr "Hai letto correttamente questo importante messaggio di avviso."
@@ -578,7 +578,7 @@ msgid "Processing"
 msgstr "Elaborazione"
 
 msgid "Complete"
-msgstr "Completare"
+msgstr "Completa"
 
 msgid "Processed"
 msgstr "Elaborato"
@@ -587,7 +587,7 @@ msgid "this month"
 msgstr "questo mese"
 
 msgid "this year"
-msgstr "quest&#39;anno"
+msgstr "quest'anno"
 
 msgid "pending"
 msgstr "in attesa di"
@@ -614,19 +614,19 @@ msgid "Action"
 msgstr "Azione"
 
 msgid "John"
-msgstr "Giovanni"
+msgstr "Mario"
 
 msgid "Doe"
-msgstr "Cervo"
+msgstr "Rossi"
 
 msgid "Pending"
 msgstr "In attesa di"
 
 msgid "data-v-created_at"
-msgstr "dati-v-creati_at"
+msgstr "data-v-creati_at"
 
 msgid "John Doe"
-msgstr "John Doe"
+msgstr "Mario Rossi"
 
 msgid "$1,005.00"
 msgstr "$ 1.005,00"
@@ -641,7 +641,7 @@ msgid "Date joined"
 msgstr "Data di iscrizione"
 
 msgid "data-v-user-created_at"
-msgstr "dati-v-utente-creato_at"
+msgstr "data-v-utente-creato_at"
 
 msgid "No users to display!"
 msgstr "Nessun utente da visualizzare!"
@@ -650,7 +650,7 @@ msgid "Latest products"
 msgstr "Ultimi prodotti"
 
 msgid "Thumb"
-msgstr "Pollice"
+msgstr "Anteprima"
 
 msgid "Product"
 msgstr "Prodotto"
@@ -707,7 +707,7 @@ msgid "Pending preview"
 msgstr "Anteprima in sospeso"
 
 msgid "Close"
-msgstr "Vicino"
+msgstr "Chiudi"
 
 msgid "Add widget"
 msgstr "Aggiungi widget"
@@ -845,10 +845,10 @@ msgid "Actions"
 msgstr "Azioni"
 
 msgid "joe"
-msgstr "Joe"
+msgstr "joe"
 
 msgid "mail@mail.com"
-msgstr "mail@mail.com"
+msgstr "mail@mail.it"
 
 msgid "Edit"
 msgstr "Modificare"
@@ -866,7 +866,7 @@ msgid "items, page"
 msgstr "elementi, pagina"
 
 msgid "of"
-msgstr "Di"
+msgstr "di"
 
 msgid "First page"
 msgstr "Prima pagina"
@@ -926,16 +926,16 @@ msgid "Contact us page"
 msgstr "Pagina Contattaci"
 
 msgid "Rename"
-msgstr "Rinominare"
+msgstr "Rinomina"
 
 msgid "Supporters"
 msgstr "Sostenitori"
 
 msgid "Checkout"
-msgstr "Guardare"
+msgstr "Controllo"
 
 msgid "Confirm"
-msgstr "Confermare"
+msgstr "Conferma"
 
 msgid "Rest API"
 msgstr "API REST"
@@ -947,7 +947,7 @@ msgid "Click"
 msgstr "Clic"
 
 msgid "to choose module and action or write the path directly and click"
-msgstr "per scegliere il modulo e l&#39;azione o scrivere direttamente il percorso e cliccare"
+msgstr "per scegliere il modulo e l'azione o scrivere direttamente il percorso e cliccare"
 
 msgid "Add rule"
 msgstr "Aggiungi regola"
@@ -956,16 +956,16 @@ msgid "You can use * wildcard to allow/deny multiple modules."
 msgstr "È possibile utilizzare il carattere jolly * per consentire/negare più moduli."
 
 msgid "Ex:"
-msgstr "Ex:"
+msgstr "Es:"
 
 msgid "content/*"
 msgstr "contenuto/*"
 
 msgid "will apply for all content modules like post and page add/edit, menu categories etc"
-msgstr "si applicherà a tutti i moduli di contenuto come post e aggiunta/modifica di pagine, categorie di menu ecc."
+msgstr "si applicherà a tutti i moduli di contenuto come post e aggiunta/modifica di pagine, categorie di menu ecc"
 
 msgid "To deny saving for content modules use"
-msgstr "Per negare il salvataggio per l&#39;uso dei moduli di contenuto"
+msgstr "Per negare il salvataggio per l'uso dei moduli di contenuto"
 
 msgid "content/*/save"
 msgstr "contenuto/*/salva"
@@ -974,7 +974,7 @@ msgid "this rule will apply for save actions for content modules, and editing an
 msgstr "questa regola si applicherà alle azioni di salvataggio per i moduli di contenuto e la modifica e l&#39;aggiunta di post/pagine/categorie ecc. saranno negate."
 
 msgid "To deny delete for all modules use"
-msgstr "Per negare l&#39;eliminazione per tutti i moduli utilizzare"
+msgstr "Per negare l'eliminazione per tutti i moduli utilizzare"
 
 msgid "*/delete"
 msgstr "*/eliminare"
@@ -983,7 +983,7 @@ msgid "this rule will apply for delete actions for all modules."
 msgstr "questa regola verrà applicata alle azioni di eliminazione per tutti i moduli."
 
 msgid "Allow list is checked first then the deny list, if a rule allows access a deny rule can limit it."
-msgstr "Prima viene controllato l&#39;elenco degli elementi consentiti, poi quello degli elementi negati; se una regola consente l&#39;accesso, una regola di negazione può limitarlo."
+msgstr "Prima viene controllato l'elenco degli elementi consentiti, poi quello degli elementi negati; se una regola consente l'accesso, una regola di negazione può limitarlo."
 
 msgid "For example you can add access to products section with"
 msgstr "Ad esempio puoi aggiungere l&#39;accesso alla sezione prodotti con"
@@ -998,7 +998,7 @@ msgid "products/*/delete"
 msgstr "prodotti/*/elimina"
 
 msgid "and"
-msgstr "E"
+msgstr "e"
 
 msgid "product/categories"
 msgstr "prodotto/categorie"
@@ -1013,13 +1013,13 @@ msgid "plugins/*"
 msgstr "plugin/*"
 
 msgid "you can restrict or allow access to plugins section and all plugins settings."
-msgstr "puoi limitare o consentire l&#39;accesso alla sezione plugin e a tutte le impostazioni dei plugin."
+msgstr "puoi limitare o consentire l'accesso alla sezione plugin e a tutte le impostazioni dei plugin."
 
 msgid "plugins/insert-scripts"
 msgstr "plugin/inserisci-script"
 
 msgid "you can restrict or allow access only to a specific plugin."
-msgstr "puoi limitare o consentire l&#39;accesso solo a un plugin specifico."
+msgstr "puoi limitare o consentire l'accesso solo a un plugin specifico."
 
 msgid "Allow list"
 msgstr "Elenco consentiti"
@@ -1061,7 +1061,7 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Token"
-msgstr "Gettone"
+msgstr "Token"
 
 msgid "Description"
 msgstr "Descrizione"
@@ -1070,7 +1070,7 @@ msgid "Copy"
 msgstr "Copia"
 
 msgid "Randomize"
-msgstr "Randomizzare"
+msgstr "Casualizza"
 
 msgid "Toggle"
 msgstr "Attiva/disattiva"
@@ -1130,7 +1130,7 @@ msgid "Product list"
 msgstr "Elenco prodotti"
 
 msgid "list"
-msgstr "lista"
+msgstr "elenco"
 
 msgid "product"
 msgstr "prodotto"
@@ -1139,7 +1139,7 @@ msgid "Post name"
 msgstr "Nome del post"
 
 msgid "Apply"
-msgstr "Fare domanda a"
+msgstr "Applica"
 
 msgid "Line wrapping"
 msgstr "A capo automatico"
@@ -1169,7 +1169,7 @@ msgid "Attribute Name"
 msgstr "Nome attributo"
 
 msgid "Option Value Name"
-msgstr "Nome del valore dell&#39;opzione"
+msgstr "Nome del valore dell'opzione"
 
 msgid "Vvveb - Edit product"
 msgstr "Vvveb - Modifica prodotto"
@@ -1181,10 +1181,10 @@ msgid "Add category"
 msgstr "Aggiungi categoria"
 
 msgid "Drag"
-msgstr "Lagna"
+msgstr "Trascina"
 
 msgid "Expand"
-msgstr "Espandere"
+msgstr "Espandi"
 
 msgid "Item 135"
 msgstr "Articolo 135"
@@ -1226,7 +1226,7 @@ msgid "Public file name"
 msgstr "Nome del file pubblico"
 
 msgid "Public file name is used to hide the real file name and url."
-msgstr "Il nome del file pubblico viene utilizzato per nascondere il nome del file e l&#39;URL reali."
+msgstr "Il nome del file pubblico viene utilizzato per nascondere il nome del file e l'URL reali."
 
 msgid "Set file"
 msgstr "Imposta file"
@@ -1289,16 +1289,16 @@ msgid "Url"
 msgstr "URL"
 
 msgid "url"
-msgstr "URL"
+msgstr "url"
 
 msgid "Slug"
-msgstr "Lumaca"
+msgstr "Slug"
 
 msgid "Product Slug"
-msgstr "Lumaca del prodotto"
+msgstr "Slug del prodotto"
 
 msgid "Open in Page Editor"
-msgstr "Apri nell&#39;editor di pagina"
+msgstr "Apri nell'editor di pagina"
 
 msgid "Copy from default language"
 msgstr "Copia dalla lingua predefinita"
@@ -1310,10 +1310,10 @@ msgid "Today"
 msgstr "Oggi"
 
 msgid "Load"
-msgstr "Carico"
+msgstr "Carica"
 
 msgid "Compare"
-msgstr "Confrontare"
+msgstr "Confronta"
 
 msgid "Yesterday"
 msgstr "Ieri"
@@ -1349,7 +1349,7 @@ msgid "No items!"
 msgstr "Nessun articolo!"
 
 msgid "Related"
-msgstr "Imparentato"
+msgstr "Correlato"
 
 msgid "Product 14"
 msgstr "Prodotto 14"
@@ -1391,7 +1391,7 @@ msgid "Required"
 msgstr "Necessario"
 
 msgid "Option Value"
-msgstr "Valore dell&#39;opzione"
+msgstr "Valore dell'opzione"
 
 msgid "Quantity"
 msgstr "Quantità"
@@ -1430,7 +1430,7 @@ msgid "EAN"
 msgstr "EAN"
 
 msgid "JAN"
-msgstr "GENNAIO"
+msgstr "JAN"
 
 msgid "ISBN"
 msgstr "Codice ISBN"
@@ -1457,7 +1457,7 @@ msgid "Digital Products"
 msgstr "Prodotti digitali"
 
 msgid "Minimum order quantity"
-msgstr "Quantità minima d&#39;ordine"
+msgstr "Quantità minima d'ordine"
 
 msgid "Minimum Quantity"
 msgstr "Quantità minima"
@@ -1529,7 +1529,7 @@ msgid "Ounce"
 msgstr "Oncia"
 
 msgid "Allow one time purchase"
-msgstr "Consenti l&#39;acquisto una tantum"
+msgstr "Consenti l'acquisto una tantum"
 
 msgid "Subscription Plan"
 msgstr "Piano di abbonamento"
@@ -1625,7 +1625,7 @@ msgid "Thumbnail"
 msgstr "Miniatura"
 
 msgid "Article title"
-msgstr "Titolo dell&#39;articolo"
+msgstr "Titolo dell'articolo"
 
 msgid "No manufacturers to display!"
 msgstr "Nessun produttore da visualizzare!"
@@ -1871,10 +1871,10 @@ msgid "Italic"
 msgstr "Corsivo"
 
 msgid "Underline"
-msgstr "Sottolineare"
+msgstr "Sottolineato"
 
 msgid "Strikeout"
-msgstr "Strikeout"
+msgstr "Sbarrato"
 
 msgid "Align Left"
 msgstr "Allinea a sinistra"
@@ -1886,7 +1886,7 @@ msgid "Align Right"
 msgstr "Allinea a destra"
 
 msgid "Align Justify"
-msgstr "Allinea giustifica"
+msgstr "Allinea giustificato"
 
 msgid "Create link"
 msgstr "Crea collegamento"
@@ -1934,7 +1934,7 @@ msgid "Trebuchet"
 msgstr "Trabucco"
 
 msgid "Courier New"
-msgstr "Corriere Nuovo"
+msgstr "Courier New"
 
 msgid "Brush Script"
 msgstr "Scrittura a pennello"
@@ -1943,13 +1943,13 @@ msgid "Drag element"
 msgstr "Elemento di trascinamento"
 
 msgid "Select parent"
-msgstr "Seleziona il genitore"
+msgstr "Seleziona il principale"
 
 msgid "Move element up"
-msgstr "Sposta l&#39;elemento verso l&#39;alto"
+msgstr "Sposta l'elemento verso l'alto"
 
 msgid "Move element down"
-msgstr "Sposta l&#39;elemento verso il basso"
+msgstr "Sposta l'elemento verso il basso"
 
 msgid "Edit html code"
 msgstr "Modifica il codice html"
@@ -1961,7 +1961,7 @@ msgid "Save as reusable"
 msgstr "Salva come riutilizzabile"
 
 msgid "Clone element"
-msgstr "Elemento clone"
+msgstr "Clona l'elemento"
 
 msgid "Remove element"
 msgstr "Rimuovi elemento"
@@ -1988,7 +1988,7 @@ msgid "Code editor (Ctrl + E)"
 msgstr "Editor di codice (Ctrl + E)"
 
 msgid "Cancel"
-msgstr "Cancellare"
+msgstr "Annulla"
 
 msgid "Export html"
 msgstr "Esporta html"
@@ -2024,7 +2024,7 @@ msgid "Main menu"
 msgstr "Menu principale"
 
 msgid "Footer"
-msgstr "Piè di pagina"
+msgstr "Pie' di pagina"
 
 msgid "Start template"
 msgstr "Avvia modello"
@@ -2063,7 +2063,7 @@ msgid "Save to folder"
 msgstr "Salva nella cartella"
 
 msgid "Create"
-msgstr "Creare"
+msgstr "Crea"
 
 msgid "Saving changes"
 msgstr "Salvataggio delle modifiche"
@@ -2114,10 +2114,10 @@ msgid "file.php"
 msgstr "file.php"
 
 msgid "Vvveb - Order status"
-msgstr "Vvveb - Stato dell&#39;ordine"
+msgstr "Vvveb - Stato dell'ordine"
 
 msgid "Order status"
-msgstr "Stato dell&#39;ordine"
+msgstr "Stato dell'ordine"
 
 msgid "Order status list"
 msgstr "Elenco degli stati degli ordini"
@@ -2300,13 +2300,13 @@ msgid "Additional Parameters"
 msgstr "Parametri aggiuntivi"
 
 msgid "e.g. -f email@mysite.com"
-msgstr "ad esempio -f email@mysite.com"
+msgstr "ad esempio -f email@ilmiosito.it"
 
 msgid "Hostname"
 msgstr "Nome host"
 
 msgid "Use 'tls://' or 'ssl://' prefix for secure connection."
-msgstr "Per una connessione sicura, utilizzare il prefisso &#39;tls://&#39; o &#39;ssl://&#39;."
+msgstr "Per una connessione sicura, utilizzare il prefisso 'tls://' or 'ssl://'"
 
 msgid "Port"
 msgstr "Porta"
@@ -2318,10 +2318,10 @@ msgid "Send test email"
 msgstr "Invia email di prova"
 
 msgid "Send to email address"
-msgstr "Invia all&#39;indirizzo email"
+msgstr "Invia all'indirizzo email"
 
 msgid "myemailaddress@domain.com"
-msgstr "ilmioindirizzoemail@dominio.com"
+msgstr "ilmioindirizzoemail@dominio.it"
 
 msgid "Send email"
 msgstr "Invia email"
@@ -2402,7 +2402,7 @@ msgid "Source"
 msgstr "Fonte"
 
 msgid "Add order status"
-msgstr "Aggiungi lo stato dell&#39;ordine"
+msgstr "Aggiungi lo stato dell'ordine"
 
 msgid "No order_status to display!"
 msgstr "Nessun order_status da visualizzare!"
@@ -2411,19 +2411,19 @@ msgid "Vvveb - Tax rate"
 msgstr "Vvveb - Aliquota fiscale"
 
 msgid "Tax rate"
-msgstr "aliquota fiscale"
+msgstr "Aliquota fiscale"
 
 msgid "Return to tax rates"
 msgstr "Ritorno alle aliquote fiscali"
 
 msgid "Rate"
-msgstr "Valutare"
+msgstr "Tasso"
 
 msgid "Fixed"
 msgstr "Fisso"
 
 msgid "Percent"
-msgstr "Percent"
+msgstr "Percentuale"
 
 msgid "Region group"
 msgstr "Gruppo regionale"
@@ -2468,16 +2468,16 @@ msgid "No sites to display!"
 msgstr "Nessun sito da visualizzare!"
 
 msgid "Vvveb - Subscription status"
-msgstr "Vvveb - Stato dell&#39;abbonamento"
+msgstr "Vvveb - Stato dell'abbonamento"
 
 msgid "Subscription status"
-msgstr "Stato dell&#39;abbonamento"
+msgstr "Stato dell'abbonamento"
 
 msgid "Subscription status list"
 msgstr "Elenco degli stati degli abbonamenti"
 
 msgid "Add subscription status"
-msgstr "Aggiungi lo stato dell&#39;abbonamento"
+msgstr "Aggiungi lo stato dell'abbonamento"
 
 msgid "No subscription_status to display!"
 msgstr "Nessuno stato di iscrizione da visualizzare!"
@@ -2531,13 +2531,13 @@ msgid "Site domain/subdomain"
 msgstr "Dominio/sottodominio del sito"
 
 msgid "You can use * wildcard for subdomain, domain or tld like *.mysite.com, subdomain.*.com, subdomain.mysite.*"
-msgstr "Puoi usare il carattere jolly * per sottodominio, dominio o tld come *.miosito.com, sottodominio.*.com, sottodominio.miosito.*"
+msgstr "Puoi usare il carattere jolly * per sottodominio, dominio o tld come *.ilmiosito.it, sottodominio.*.it, sottodominio.miosito.*"
 
 msgid "Used to match site and generate links"
 msgstr "Utilizzato per abbinare il sito e generare link"
 
 msgid "* mysite com"
-msgstr "* mysite com"
+msgstr "* miosito it"
 
 msgid "Path"
 msgstr "Sentiero"
@@ -2549,13 +2549,13 @@ msgid "Examples:"
 msgstr "Esempi:"
 
 msgid "www.mydomain.com"
-msgstr "www.miodominio.com"
+msgstr "www.ilmiodominio.it"
 
 msgid "subdomain.domain.com"
-msgstr "sottodominio.dominio.com"
+msgstr "sottodominio.dominio.it"
 
 msgid "domain.com"
-msgstr "dominio.com"
+msgstr "dominio.it"
 
 msgid "Use * wildcard to match any subdomain or domain."
 msgstr "Utilizzare il carattere jolly * per trovare la corrispondenza con qualsiasi sottodominio o dominio."
@@ -2603,7 +2603,7 @@ msgid "Home template"
 msgstr "Modello di casa"
 
 msgid "Administration Email Address"
-msgstr "Indirizzo email dell&#39;amministrazione"
+msgstr "Indirizzo email dell'amministrazione"
 
 msgid "Contact Email Address"
 msgstr "Indirizzo email di contatto"
@@ -2627,13 +2627,13 @@ msgid "Logo dark sticky"
 msgstr "Logo scuro appiccicoso"
 
 msgid "Banners"
-msgstr "Striscioni"
+msgstr "Banner"
 
 msgid "Site banner"
 msgstr "Banner del sito"
 
 msgid "Web app install banner"
-msgstr "Banner di installazione dell&#39;app Web"
+msgstr "Banner di installazione dell'app Web"
 
 msgid "Site title"
 msgstr "Titolo del sito"
@@ -2696,7 +2696,7 @@ msgid "Euro"
 msgstr "Euro"
 
 msgid "Indian Rupee"
-msgstr "rupia indiana"
+msgstr "Rupia indiana"
 
 msgid "Pound Sterling"
 msgstr "Sterlina inglese"
@@ -2735,13 +2735,13 @@ msgid "Preview:"
 msgstr "Anteprima:"
 
 msgid "Time format"
-msgstr "Formato dell&#39;ora"
+msgstr "Formato dell'ora"
 
 msgid "Time Format"
 msgstr "Formato ora"
 
 msgid "Post image size"
-msgstr "Dimensione dell&#39;immagine del post"
+msgstr "Dimensione dell'immagine del post"
 
 msgid "Extra large"
 msgstr "Extra large"
@@ -2765,7 +2765,7 @@ msgid "Medium"
 msgstr "Medio"
 
 msgid "Product image size"
-msgstr "Dimensioni dell&#39;immagine del prodotto"
+msgstr "Dimensioni dell'immagine del prodotto"
 
 msgid "Image output"
 msgstr "Uscita immagine"
@@ -2792,7 +2792,7 @@ msgid "85"
 msgstr "85"
 
 msgid "To keep image proportion set either height or width to 0 (zero)"
-msgstr "Per mantenere le proporzioni dell&#39;immagine, impostare l&#39;altezza o la larghezza su 0 (zero)"
+msgstr "Per mantenere le proporzioni dell'immagine, impostare l'altezza o la larghezza su 0 (zero)"
 
 msgid "Default post comments"
 msgstr "Commenti predefiniti sui post"
@@ -2806,8 +2806,8 @@ msgstr "I singoli post potrebbero ignorare queste impostazioni."
 msgid "Anonymous comments"
 msgstr "Commenti anonimi"
 
-msgid "Allow comments only from logged in users"
-msgstr "Consenti commenti solo agli utenti registrati"
+msgid "Allow comments without user account"
+msgstr "Consenti commenti dal utenti anonimi"
 
 msgid "Automatically close comments"
 msgstr "Chiudi automaticamente i commenti"
@@ -2837,7 +2837,7 @@ msgid "last"
 msgstr "scorso"
 
 msgid "first"
-msgstr "Primo"
+msgstr "primo"
 
 msgid "page displayed by default"
 msgstr "pagina visualizzata per impostazione predefinita"
@@ -2876,13 +2876,13 @@ msgid "date_added"
 msgstr "data_aggiunta"
 
 msgid "user_id"
-msgstr "ID utente"
+msgstr "id utente"
 
 msgid "order_id"
-msgstr "ID ordine"
+msgstr "id ordine"
 
 msgid "customer_order_id"
-msgstr "ID_ordine_cliente"
+msgstr "id_ordine_cliente"
 
 msgid "site_id"
 msgstr "site_id"
@@ -2915,10 +2915,10 @@ msgid "Allow guest checkout"
 msgstr "Consenti il pagamento degli ospiti"
 
 msgid "New Order Status"
-msgstr "Nuovo stato dell&#39;ordine"
+msgstr "Nuovo stato dell'ordine"
 
 msgid "Order status when order is placed."
-msgstr "Stato dell&#39;ordine al momento dell&#39;effettuazione dell&#39;ordine."
+msgstr "Stato dell'ordine al momento dell'effettuazione."
 
 msgid "processing"
 msgstr "elaborazione"
@@ -2963,7 +2963,7 @@ msgid "holded"
 msgstr "tenuto"
 
 msgid "closed"
-msgstr "Chiuso"
+msgstr "chiuso"
 
 msgid "delivered"
 msgstr "consegnato"
@@ -2978,22 +2978,22 @@ msgid "fraud"
 msgstr "frode"
 
 msgid "Subtract stock on order status"
-msgstr "Sottrai lo stock allo stato dell&#39;ordine"
+msgstr "Sottrai lo stock allo stato dell'ordine"
 
 msgid "Order status for stock subtraction and coupon, voucher and rewards redemption."
-msgstr "Stato dell&#39;ordine per la sottrazione delle scorte e il riscatto di coupon, buoni e premi."
+msgstr "Stato dell'ordine per la sottrazione delle scorte e il riscatto di coupon, buoni e premi."
 
 msgid "Enable user downloads on order status"
-msgstr "Abilita i download degli utenti sullo stato dell&#39;ordine"
+msgstr "Abilita i download degli utenti sullo stato dell'ordine"
 
 msgid "Order status for user to access their downloadable products and gift vouchers."
-msgstr "Stato dell&#39;ordine per consentire all&#39;utente di accedere ai propri prodotti scaricabili e buoni regalo."
+msgstr "Stato dell'ordine per consentire all'utente di accedere ai propri prodotti scaricabili e buoni regalo."
 
 msgid "Notify on"
 msgstr "Notifica su"
 
 msgid "Emails will be sent to site administration email address"
-msgstr "Le email verranno inviate all&#39;indirizzo email di amministrazione del sito"
+msgstr "Le email verranno inviate all'indirizzo email di amministrazione del sito"
 
 msgid "New user account"
 msgstr "Nuovo account utente"
@@ -3065,10 +3065,10 @@ msgid "View Profile"
 msgstr "Visualizza profilo"
 
 msgid "Order note"
-msgstr "Nota d&#39;ordine"
+msgstr "Nota d'ordine"
 
 msgid "Order Details"
-msgstr "Dettagli dell&#39;ordine"
+msgstr "Dettagli dell'ordine"
 
 msgid "Order ID:"
 msgstr "ID ordine:"
@@ -3077,13 +3077,13 @@ msgid "Customer Order ID:"
 msgstr "ID ordine cliente:"
 
 msgid "Order Invoice:"
-msgstr "Fattura dell&#39;ordine:"
+msgstr "Fattura dell'ordine:"
 
 msgid "V1-"
 msgstr "V1-"
 
 msgid "Order Date:"
-msgstr "Data dell&#39;ordine:"
+msgstr "Data dell'ordine:"
 
 msgid "Payment method:"
 msgstr "Metodo di pagamento:"
@@ -3233,16 +3233,16 @@ msgid "Public note"
 msgstr "Nota pubblica"
 
 msgid "Customer can also see the message, otherwise will see only status change and order details"
-msgstr "Il cliente può anche vedere il messaggio, altrimenti vedrà solo il cambiamento di stato e i dettagli dell&#39;ordine"
+msgstr "Il cliente può anche vedere il messaggio, altrimenti vedrà solo il cambiamento di stato e i dettagli dell'ordine"
 
 msgid "Order Status"
-msgstr "Stato dell&#39;ordine"
+msgstr "Stato dell'ordine"
 
 msgid "Note"
 msgstr "Nota"
 
 msgid "Send user notification"
-msgstr "Invia notifica all&#39;utente"
+msgstr "Invia notifica all'utente"
 
 msgid "Include note in notification, public note"
 msgstr "Includere nota nella notifica, nota pubblica"
@@ -3281,10 +3281,10 @@ msgid "To name"
 msgstr "Per nominare"
 
 msgid "To email"
-msgstr "Per inviare un&#39;e-mail"
+msgstr "Per inviare un'e-mail"
 
 msgid "to email"
-msgstr "inviare un&#39;e-mail"
+msgstr "inviare un'e-mail"
 
 msgid "message"
 msgstr "messaggio"
@@ -3305,7 +3305,7 @@ msgid "Reason"
 msgstr "Motivo"
 
 msgid "Date ordered"
-msgstr "Data dell&#39;ordine"
+msgstr "Data dell'ordine"
 
 msgid "Date updated"
 msgstr "Data di aggiornamento"
@@ -3341,7 +3341,7 @@ msgid "VAT ID"
 msgstr "Partita IVA"
 
 msgid "Order details"
-msgstr "Dettagli dell&#39;ordine"
+msgstr "Dettagli dell'ordine"
 
 msgid "Order ID"
 msgstr "ID ordine"
@@ -3350,7 +3350,7 @@ msgid "V001"
 msgstr "V001"
 
 msgid "Order Date"
-msgstr "Data dell&#39;ordine"
+msgstr "Data dell'ordine"
 
 msgid "Payment method"
 msgstr "Metodo di pagamento"
@@ -3392,7 +3392,7 @@ msgid "post_code"
 msgstr "codice postale"
 
 msgid "country"
-msgstr "Paese"
+msgstr "paese"
 
 msgid "region"
 msgstr "regione"
@@ -3743,7 +3743,7 @@ msgid "+ Add rule group"
 msgstr "+ Aggiungi gruppo di regole"
 
 msgid "or"
-msgstr "O"
+msgstr "o"
 
 msgid "Vvveb - Field groups"
 msgstr "Vvveb - Gruppi di campo"
@@ -3764,7 +3764,7 @@ msgid "Error 404"
 msgstr "Errore 404"
 
 msgid "Order confirmation"
-msgstr "Conferma dell&#39;ordine"
+msgstr "Conferma dell'ordine"
 
 msgid "Hi"
 msgstr "CIAO"
@@ -3773,13 +3773,13 @@ msgid "Thanks for your order"
 msgstr "Grazie per il tuo ordine"
 
 msgid "on"
-msgstr "SU"
+msgstr "su"
 
 msgid "Company name"
-msgstr "Nome dell&#39;azienda"
+msgstr "Nome dell'azienda"
 
 msgid "Ipad"
-msgstr "iPad"
+msgstr "Ipad"
 
 msgid "$223.20"
 msgstr "$223,20"
@@ -3922,13 +3922,13 @@ msgid "Latitude"
 msgstr "Latitudine"
 
 msgid "Long"
-msgstr "Lungo"
+msgstr "Long"
 
 msgid "Longitude"
 msgstr "Longitudine"
 
 msgid "Zoom"
-msgstr "Zoom"
+msgstr "Ingrandimentoo"
 
 msgid "$placeholder"
 msgstr "$segnaposto"
@@ -3979,7 +3979,7 @@ msgid "Domain name"
 msgstr "Nome di dominio"
 
 msgid "User defined custom translations"
-msgstr "Traduzioni personalizzate definite dall&#39;utente"
+msgstr "Traduzioni personalizzate definite dall'utente"
 
 msgid "Core translations"
 msgstr "Traduzioni principali"
@@ -4012,7 +4012,7 @@ msgid "Language list"
 msgstr "Elenco delle lingue"
 
 msgid "Custom"
-msgstr "Costume"
+msgstr "Personalizzato"
 
 msgid "Language pack"
 msgstr "Pacchetto linguistico"
@@ -4105,7 +4105,7 @@ msgid "Sign right"
 msgstr "Segno giusto"
 
 msgid "Decimal place"
-msgstr "cifra decimale"
+msgstr "Cifra decimale"
 
 msgid "Vvveb - Country"
 msgstr "Vvveb - Paese"
@@ -4204,7 +4204,7 @@ msgid "Instructions"
 msgstr "Istruzioni"
 
 msgid "Instructions for content editors. Shown when submitting data."
-msgstr "Istruzioni per gli editor di contenuti. Mostrate al momento dell&#39;invio dei dati."
+msgstr "Istruzioni per gli editor di contenuti. Mostrate al momento dell'invio dei dati."
 
 msgid "Taxonomy type"
 msgstr "Tipo di tassonomia"
@@ -4315,7 +4315,7 @@ msgid "Plugin name"
 msgstr "Nome del plugin"
 
 msgid "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design."
-msgstr "Il più avanzato page builder drag &amp; drop frontend. Crea siti web di alta qualità, pixel-perfect, a velocità record. Qualsiasi tema, qualsiasi pagina, qualsiasi design."
+msgstr "Il più avanzato page builder drag & drop frontend. Crea siti web di alta qualità, pixel-perfect, a velocità record. Qualsiasi tema, qualsiasi pagina, qualsiasi design."
 
 msgid "Plugin homepage"
 msgstr "Pagina iniziale del plugin"
@@ -4387,7 +4387,7 @@ msgid "Import local Vvveb data"
 msgstr "Importa dati Vvveb locali"
 
 msgid "Upload a Vvveb export file to start importing"
-msgstr "Carica un file di esportazione Vvveb per iniziare l&#39;importazione"
+msgstr "Carica un file di esportazione Vvveb per iniziare l'importazione"
 
 msgid "Upload xml or sql file"
 msgstr "Carica file xml o sql"
@@ -4441,7 +4441,7 @@ msgid "swap"
 msgstr "scambio"
 
 msgid "fallback"
-msgstr "ricaderci"
+msgstr "ritorno"
 
 msgid "optional"
 msgstr "opzionale"
@@ -4456,7 +4456,7 @@ msgid "Font stretch"
 msgstr "Allungamento del carattere"
 
 msgid "Line gap override"
-msgstr "Override dell&#39;intervallo di linea"
+msgstr "Override dell'intervallo di linea"
 
 msgid "Size adjust settings"
 msgstr "Impostazioni di regolazione delle dimensioni"
@@ -4468,7 +4468,7 @@ msgid "Ascent override"
 msgstr "Override di salita"
 
 msgid "Unicode range"
-msgstr "intervallo Unicode"
+msgstr "Intervallo Unicode"
 
 msgid "Built in fonts"
 msgstr "Caratteri incorporati"
@@ -4825,7 +4825,7 @@ msgid "Manual configuration"
 msgstr "Configurazione manuale"
 
 msgid "You need to run the following command every hour, if you don't have access then you need to call the url bellow every hour. For more info on how to configure cron jobs please read"
-msgstr "È necessario eseguire il seguente comando ogni ora; se non si ha accesso, è necessario chiamare l&#39;URL seguente ogni ora. Per maggiori informazioni su come configurare i cron job, leggere"
+msgstr "È necessario eseguire il seguente comando ogni ora; se non si ha accesso, è necessario chiamare l'URL seguente ogni ora. Per maggiori informazioni su come configurare i cron job, leggere"
 
 msgid "Cron Documentation"
 msgstr "Documentazione Cron"
@@ -4858,7 +4858,7 @@ msgid "Import content from another Vvveb website"
 msgstr "Importa contenuti da un altro sito web Vvveb"
 
 msgid "Enable online import"
-msgstr "Abilita l&#39;importazione online"
+msgstr "Abilita l'importazione online"
 
 msgid "Website Url:"
 msgstr "URL del sito web:"
@@ -4867,7 +4867,7 @@ msgid "Password:"
 msgstr "Password:"
 
 msgid "Start import"
-msgstr "Avvia l&#39;importazione"
+msgstr "Avvia l'importazione"
 
 msgid "Vvveb - Error log"
 msgstr "Vvveb - Registro degli errori"
@@ -4882,7 +4882,7 @@ msgid "is not readable"
 msgstr "non è leggibile"
 
 msgid "showing last"
-msgstr "mostrando l&#39;ultimo"
+msgstr "mostrando l'ultimo"
 
 msgid "lines"
 msgstr "linee"
@@ -4921,7 +4921,7 @@ msgid "Last check:"
 msgstr "Ultimo controllo:"
 
 msgid "today"
-msgstr "Oggi"
+msgstr "oggi"
 
 msgid "Total plugins:"
 msgstr "Totale plugin:"
@@ -4996,13 +4996,13 @@ msgid "Online export"
 msgstr "Esportazione online"
 
 msgid "Enable this option if you want to transfer the contents of this website to another Vvveb website, you can use the url and password bellow in the import section on the Vvveb website where you want to transfer content"
-msgstr "Abilita questa opzione se vuoi trasferire i contenuti di questo sito web su un altro sito web Vvveb, puoi usare l&#39;URL e la password qui sotto nella sezione di importazione sul sito web Vvveb in cui vuoi trasferire i contenuti"
+msgstr "Abilita questa opzione se vuoi trasferire i contenuti di questo sito web su un altro sito web Vvveb, puoi usare l'URL e la password qui sotto nella sezione di importazione sul sito web Vvveb in cui vuoi trasferire i contenuti"
 
 msgid "Enable online export"
-msgstr "Abilita l&#39;esportazione online"
+msgstr "Abilita l'esportazione online"
 
 msgid "Enable plugins and themes export"
-msgstr "Abilita l&#39;esportazione di plugin e temi"
+msgstr "Abilita l'esportazione di plugin e temi"
 
 msgid "Vvveb - Permission denied!"
 msgstr "Vvveb - Permesso negato!"
@@ -5011,7 +5011,7 @@ msgid "Permission denied!"
 msgstr "Permesso negato!"
 
 msgid "You don't have permission to access this page."
-msgstr "Non hai l&#39;autorizzazione per accedere a questa pagina."
+msgstr "Non hai l'autorizzazione per accedere a questa pagina."
 
 msgid "Go back"
 msgstr "Torna indietro"
@@ -5032,7 +5032,7 @@ msgid "Phone"
 msgstr "Telefono"
 
 msgid "+55 (111) 123 777"
-msgstr "+55 (111) 123 777"
+msgstr "+39 (012) 345 678"
 
 msgid "USD"
 msgstr "Dollaro statunitense"
@@ -5092,7 +5092,7 @@ msgid "Welcome"
 msgstr "Benvenuto"
 
 msgid "johndoe"
-msgstr "Johndoe"
+msgstr "johndoe"
 
 msgid "My account"
 msgstr "Il mio conto"
@@ -5134,10 +5134,10 @@ msgid "Begin each day by telling yourself"
 msgstr "Inizia ogni giorno dicendo a te stesso"
 
 msgid "Today I shall be meeting with interference, ingratitude, insolence, disloyalty, ill-will, and selfishness all of them due to the offenders` ignorance of what is good or evil."
-msgstr "Oggi incontrerò interferenze, ingratitudine, insolenza, slealtà, malevolenza ed egoismo, tutti dovuti all&#39;ignoranza dei trasgressori su ciò che è bene e ciò che è male."
+msgstr "Oggi incontrerò interferenze, ingratitudine, insolenza, slealtà, malevolenza ed egoismo, tutti dovuti all'ignoranza dei trasgressori su ciò che è bene e ciò che è male."
 
 msgid "cat 1"
-msgstr "gatto 1"
+msgstr "categoria 1"
 
 msgid "tag 2"
 msgstr "etichetta 2"
@@ -5194,7 +5194,7 @@ msgid "Select month"
 msgstr "Seleziona il mese"
 
 msgid "footer-3"
-msgstr "piè di pagina-3"
+msgstr "pie' di pagina-3"
 
 msgid "Resources"
 msgstr "Risorse"
@@ -5221,13 +5221,13 @@ msgid "Return form"
 msgstr "Modulo di reso"
 
 msgid "Order tracking"
-msgstr "Tracciamento dell&#39;ordine"
+msgstr "Tracciamento dell'ordine"
 
 msgid "Terms and conditions"
 msgstr "Termini e Condizioni"
 
 msgid "Privacy Policy"
-msgstr "politica sulla riservatezza"
+msgstr "Politica sulla riservatezza"
 
 msgid "Product was added to cart."
 msgstr "Il prodotto è stato aggiunto al carrello."
@@ -5259,9 +5259,9 @@ msgstr "bordi grezzi del fondo"
 msgid "Better Security"
 msgstr "Migliore sicurezza"
 
-#, php-format
+#, no-php-format
 msgid "Vvveb is 100% safe against sql injections, a vulerability that affects most CMS."
-msgstr "Vvveb è sicuro al 100% contro le iniezioni SQL, una vulnerabilità che colpisce la maggior parte dei CMS."
+msgstr "Vvveb è sicuro al 100% contro le sql injections, una vulnerabilità che coinvolge la maggior parte dei CMS."
 
 msgid "Unlimited customization"
 msgstr "Personalizzazione illimitata"
@@ -5342,7 +5342,7 @@ msgid "Company Inc."
 msgstr "Società Inc."
 
 msgid "Jane Doe"
-msgstr "Jane Doe"
+msgstr "Maria Rossi."
 
 msgid "Choose your plan"
 msgstr "Scegli il tuo piano"
@@ -5420,7 +5420,7 @@ msgid "Email:"
 msgstr "E-mail:"
 
 msgid "contact@mysite.com"
-msgstr "contact@mysite.com"
+msgstr "contatto@ilmiosito.it"
 
 msgid "Phone:"
 msgstr "Telefono:"
@@ -5531,7 +5531,7 @@ msgid "One Shoulder Glitter Midi Dress"
 msgstr "Abito midi glitterato monospalla"
 
 msgid "mango"
-msgstr "Mango"
+msgstr "mango"
 
 msgid "Availability"
 msgstr "Disponibilità"
@@ -5540,7 +5540,7 @@ msgid "In stock"
 msgstr "In magazzino"
 
 msgid "no"
-msgstr "NO"
+msgstr "no"
 
 msgid "reviews)"
 msgstr "recensioni)"
@@ -5591,7 +5591,7 @@ msgid "One time purchase"
 msgstr "Acquisto una tantum"
 
 msgid "Subscription description"
-msgstr "Descrizione dell&#39;abbonamento"
+msgstr "Descrizione dell'abbonamento"
 
 msgid "Auto-renews, skip or cancel anytime."
 msgstr "Rinnovo automatico, salta o annulla in qualsiasi momento."
@@ -5618,16 +5618,16 @@ msgid "Questions & Answers"
 msgstr "Domande e risposte"
 
 msgid "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is."
-msgstr "Tutti nel mondo conoscono la bellezza del bello e, nel fare ciò, hanno (l&#39;idea di) cosa sia la bruttezza; tutti conoscono l&#39;abilità dell&#39;abile e, nel fare ciò, hanno (l&#39;idea di) cosa sia la mancanza di abilità."
+msgstr "Tutti nel mondo conoscono la bellezza del bello e, nel fare ciò, hanno (l&#39;idea di) cosa sia la bruttezza; tutti conoscono l'abilità dell'abile e, nel fare ciò, hanno l'idea di cosa sia la mancanza di abilità."
 
 msgid "So it is that existence and nonexistence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another."
-msgstr "Così l&#39;esistenza e la non esistenza generano l&#39;una (l&#39;idea dell&#39;)altra; la difficoltà e la facilità producono l&#39;una (l&#39;idea dell&#39;)altra; la lunghezza e la brevità plasmano l&#39;una la figura dell&#39;altra; l&#39;altezza e la bassezza nascono dal contrasto dell&#39;una con l&#39;altra; le note e i toni musicali diventano armoniosi attraverso la relazione dell&#39;uno con l&#39;altro; e l&#39;essere davanti e dietro dà l&#39;idea dell&#39;uno che segue l&#39;altro."
+msgstr "Così l'esistenza e la non esistenza generano l'una (l'idea dell')altra; la difficoltà e la facilità producono l'una (l'idea dell';)altra; la lunghezza e la brevità plasmano l'una la figura dell'altra; l'altezza e la bassezza nascono dal contrasto dell'una con l'altra; le note e i toni musicali diventano armoniosi attraverso la relazione dell'uno con l'altro; e l'essere davanti e dietro dà l'idea dell'uno che segue l'altro."
 
 msgid "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech."
 msgstr "Perciò il saggio gestisce gli affari senza fare nulla e trasmette le sue istruzioni senza usare la parola."
 
 msgid "All things spring up, and there is not one which declines to show itself; they grow, and there is no claim made for their ownership; they go through their processes, and there is no expectation (of a reward for the results). The work is accomplished, and there is no resting in it (as an achievement)."
-msgstr "Tutte le cose nascono, e non ce n&#39;è una che si rifiuti di mostrarsi; crescono, e non c&#39;è chi ne rivendica la proprietà; attraversano i loro processi, e non c&#39;è aspettativa (di una ricompensa per i risultati). L&#39;opera è compiuta, e non c&#39;è riposo in essa (come un traguardo)."
+msgstr "Tutte le cose nascono, e non ce n&#39;è una che si rifiuti di mostrarsi; crescono, e non c'è chi ne rivendica la proprietà; attraversano i loro processi, e non c'è aspettativa (di una ricompensa per i risultati). L'opera è compiuta, e non c'è riposo in essa (come un traguardo)."
 
 msgid "The work is done, but how no one can see;"
 msgstr "Il lavoro è fatto, ma nessuno può vedere come;"
@@ -5696,13 +5696,13 @@ msgid "Your review is awaiting moderation."
 msgstr "La tua recensione è in attesa di moderazione."
 
 msgid "This is a preview, your review will be visible after it has been approved."
-msgstr "Questa è un&#39;anteprima, la tua recensione sarà visibile dopo essere stata approvata."
+msgstr "Questa è un'anteprima, la tua recensione sarà visibile dopo essere stata approvata."
 
 msgid "Reply"
 msgstr "Rispondere"
 
 msgid "John doe"
-msgstr "John Doe"
+msgstr "Mario Rossi"
 
 msgid "This is a reply review."
 msgstr "Questa è una recensione di risposta."
@@ -5882,7 +5882,7 @@ msgid "What do I get?"
 msgstr "Cosa ottengo?"
 
 msgid "A Kirby license allows you to run a single installation on a single domain. Kirby is a self-hosted CMS. You have to bring your own hosting and domain on which you will run Kirby. The license is a one-time payment, there is no subscription, no yearly or monthly fees"
-msgstr "Una licenza Kirby consente di eseguire una singola installazione su un singolo dominio. Kirby è un CMS self-hosted. È necessario portare il proprio hosting e il proprio dominio su cui eseguire Kirby. La licenza prevede un pagamento una tantum, senza abbonamento, canone annuale o mensile."
+msgstr "Una licenza Kirby consente di eseguire una singola installazione su un singolo dominio. Kirby è un CMS self-hosted. È necessario portare il proprio hosting e il proprio dominio su cui eseguire Kirby. La licenza prevede un pagamento una tantum, senza abbonamento, canone annuale o mensile"
 
 msgid "Accordion Item #2"
 msgstr "Articolo a fisarmonica n. 2"
@@ -5891,10 +5891,10 @@ msgid "This is the second item's accordion body."
 msgstr "Questo è il corpo a fisarmonica del secondo articolo."
 
 msgid "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the"
-msgstr "È nascosto per impostazione predefinita, finché il plugin di compressione non aggiunge le classi appropriate che utilizziamo per definire lo stile di ciascun elemento. Queste classi controllano l&#39;aspetto generale, nonché la visualizzazione e la visualizzazione tramite transizioni CSS. È possibile modificare qualsiasi elemento con CSS personalizzato o sovrascrivendo le variabili predefinite. Vale anche la pena notare che praticamente qualsiasi codice HTML può essere inserito all&#39;interno di"
+msgstr "È nascosto per impostazione predefinita, finché il plugin di compressione non aggiunge le classi appropriate che utilizziamo per definire lo stile di ciascun elemento. Queste classi controllano l'aspetto generale, nonché la visualizzazione e la visualizzazione tramite transizioni CSS. È possibile modificare qualsiasi elemento con CSS personalizzato o sovrascrivendo le variabili predefinite. Vale anche la pena notare che praticamente qualsiasi codice HTML può essere inserito all'interno di"
 
 msgid ", though the transition does limit overflow."
-msgstr ", sebbene la transizione limiti l&#39;overflow."
+msgstr ", sebbene la transizione limiti l'overflow."
 
 msgid "Accordion Item #3"
 msgstr "Articolo fisarmonica n. 3"
@@ -5909,7 +5909,7 @@ msgid "Type for search"
 msgstr "Digitare per la ricerca"
 
 msgid "Romanian (Romania)"
-msgstr "rumeno (Romania)"
+msgstr "Rumeno (Romania)"
 
 msgid "Spanish (Spain)1"
 msgstr "Spagnolo (Spagna)1"
@@ -5918,7 +5918,7 @@ msgid "Features asdasdasd"
 msgstr "Caratteristiche asdasdasd"
 
 msgid "asdasd Just a few mentions, but there is more"
-msgstr "asdasd Solo qualche accenno, ma c&#39;è di più"
+msgstr "asdasd Solo qualche accenno, ma c'è di più"
 
 msgid "This is a dummy info message!"
 msgstr "Questo è un messaggio informativo fittizio!"
@@ -5983,7 +5983,7 @@ msgid ""
 msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Enea finibus velit id urna vehicula,"
 
 msgid "admin@admin.com"
-msgstr "admin@admin.com"
+msgstr "admin@admin.it"
 
 msgid "Information"
 msgstr "Informazioni"
@@ -6034,7 +6034,7 @@ msgid "Neither can I be angry with my brother or fall foul of him; for he and I 
 msgstr "Né posso arrabbiarmi con mio fratello o offendermi con lui, perché lui e io siamo nati per lavorare insieme, come le mani, i piedi o le palpebre di un uomo, o le file superiori e inferiori dei suoi denti."
 
 msgid "To obstruct each other is against Nature`s law - and what is irritation or aversion but a form of obstruction."
-msgstr "Ostacolarsi a vicenda è contro la legge della Natura, e cos&#39;è l&#39;irritazione o l&#39;avversione se non una forma di ostruzione?"
+msgstr "Ostacolarsi a vicenda è contro la legge della Natura, e cos'è l'irritazione o l'avversione se non una forma di ostruzione."
 
 msgid "Consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi."
 msgstr "Consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi."
@@ -6046,13 +6046,13 @@ msgid "Quisque in porttitor magna, a imperdiet est. Donec accumsan justo nulla, 
 msgstr "Quisque in porttitor magna, a imperdiet est. Donec accumsan justo nulla, sit amet varius urna laoreet vitae. Mecenate feugiat fringilla metus."
 
 msgid "cat 2"
-msgstr "gatto 2"
+msgstr "categoria 2"
 
 msgid "cat 3"
-msgstr "gatto 3"
+msgstr "categoria 3"
 
 msgid "cat 4"
-msgstr "gatto 4"
+msgstr "categoria 4"
 
 msgid "New account"
 msgstr "Nuovo account"
@@ -6121,10 +6121,10 @@ msgid "Submit all required assets and info"
 msgstr "Invia tutte le risorse e le informazioni richieste"
 
 msgid "Extension is reviewed to ensure it meets quality criteria"
-msgstr "L&#39;estensione viene esaminata per garantire che soddisfi i criteri di qualità"
+msgstr "L'estensione viene esaminata per garantire che soddisfi i criteri di qualità"
 
 msgid "If approved the extension will be listed in the directory"
-msgstr "Se approvata l&#39;estensione verrà elencata nella directory"
+msgstr "Se approvata l'estensione verrà elencata nella directory"
 
 msgid "If rejected feedback will be provided"
 msgstr "Se rifiutato verrà fornito un feedback"
@@ -6331,7 +6331,7 @@ msgid "Continue shopping"
 msgstr "Continua lo shopping"
 
 msgid "Enter email"
-msgstr "Inserisci l&#39;email"
+msgstr "Inserisci l'email"
 
 msgid "Make appointment"
 msgstr "Fissa un appuntamento"
@@ -6361,10 +6361,10 @@ msgid "Navbar"
 msgstr "Barra di navigazione"
 
 msgid "Another action"
-msgstr "Un&#39;altra azione"
+msgstr "Un'altra azione"
 
 msgid "Something else here"
-msgstr "Qualcos&#39;altro qui"
+msgstr "Qualcos'altro qui"
 
 msgid "Dropup split"
 msgstr "Dropup split"
@@ -6382,7 +6382,7 @@ msgid "Product actions"
 msgstr "Azioni del prodotto"
 
 msgid "Something else here with a long text"
-msgstr "Qualcos&#39;altro qui con un testo lungo"
+msgstr "Qualcos'altro qui con un testo lungo"
 
 msgid "Dropup align end"
 msgstr "Fine allineamento dropup"
@@ -6538,7 +6538,7 @@ msgid "you probably"
 msgstr "probabilmente tu"
 
 msgid "haven't heard of them. Photo booth beard raw denim letterpress vegan messenger bag stumptown. Farm-to-table seitan, mcsweeney's fixie sustainable quinoa 8-bit american apparel"
-msgstr "Non ne ho mai sentito parlare. Photo booth, barba, denim grezzo, stampa tipografica, borsa a tracolla vegana, Stumptown. Seitan dalla fattoria alla tavola, McSweeney&#39;s Fixie, quinoa sostenibile, American Apparel a 8 bit."
+msgstr "non ne ho mai sentito parlare. Cabina fotografica, barba, denim grezzo, stampa tipografica, borsa a tracolla vegana, stumptown. Seitan dalla fattoria alla tavola, McSweeney's Fixie, quinoa sostenibile, American Apparel a 8 bit"
 
 msgid "Another tooltip"
 msgstr "Un altro suggerimento"
@@ -6547,10 +6547,10 @@ msgid "have a"
 msgstr "avere un"
 
 msgid "terry richardson vinyl chambray. Beard stumptown, cardigans banh mi lomo thundercats. Tofu biodiesel williamsburg marfa, four loko mcsweeney's cleanse vegan chambray. A really ironic artisan"
-msgstr "Terry Richardson Vinyl Chambray. Barba Stumptown, cardigan Banh Mi Lomo Thundercats. Tofu Biodiesel Williamsburg Marfa, Four Loko McSweeney&#39;s Cleanse Vegan Chambray. Un artigiano davvero ironico."
+msgstr "terry Richardson Vinyl Chambray. Barba Stumptown, cardigan Banh Mi Lomo Thundercats. Tofu Biodiesel Williamsburg Marfa, Four Loko McSweeney's Cleanse Vegan Chambray. Un artigiano davvero ironico"
 
 msgid "Another one here too"
-msgstr "Anche qui ce n&#39;è un altro"
+msgstr "Anche qui ce n'è un altro"
 
 msgid "whatever keytar"
 msgstr "qualunque keytar"
@@ -6559,7 +6559,7 @@ msgid ", scenester farm-to-table banksy Austin"
 msgstr ", scenester dalla fattoria alla tavola banksy Austin"
 
 msgid "The last tip!"
-msgstr "L&#39;ultimo consiglio!"
+msgstr "L'ultimo consiglio!"
 
 msgid "twitter handle"
 msgstr "handle di Twitter"
@@ -6586,7 +6586,7 @@ msgid "Tooltip on left"
 msgstr "Suggerimento a sinistra"
 
 msgid "Tooltip on start"
-msgstr "Suggerimento all&#39;avvio"
+msgstr "Suggerimento all'avvio"
 
 msgid "Tooltip with container (selector)"
 msgstr "Tooltip con contenitore (selettore)"
@@ -6601,7 +6601,7 @@ msgid "Tooltip with XSS"
 msgstr "Tooltip con XSS"
 
 msgid "Test tooltip on transformed element"
-msgstr "Prova il suggerimento sull&#39;elemento trasformato"
+msgstr "Prova il suggerimento sull'elemento trasformato"
 
 msgid "Test Selector triggered tooltips"
 msgstr "Suggerimenti attivati dal selettore di test"
@@ -6631,7 +6631,7 @@ msgid "Oh snap!"
 msgstr "Oh cavolo!"
 
 msgid "Change a few things up"
-msgstr "Cambia un po&#39; di cose"
+msgstr "Cambia un po' di cose"
 
 msgid "and try submitting again."
 msgstr "e riprova a inviare."
@@ -6709,10 +6709,10 @@ msgid "Navigate to the radio button group with the keyboard (generally, using"
 msgstr "Passare al gruppo dei pulsanti di scelta con la tastiera (in genere, utilizzando"
 
 msgid "). If no radio button was initially set to be selected, the first/last radio button should receive focus (depending on whether you navigated \"forward\" to the group with"
-msgstr "). Se inizialmente non è stato impostato alcun pulsante di scelta per la selezione, il primo/ultimo pulsante di scelta dovrebbe ricevere il focus (a seconda che si sia navigato &quot;in avanti&quot; al gruppo con"
+msgstr "). Se inizialmente non è stato impostato alcun pulsante di scelta per la selezione, il primo/ultimo pulsante di scelta dovrebbe ricevere il focus (a seconda che si sia navigato \"in avanti\"; al gruppo con"
 
 msgid "or \"backwards\" using"
-msgstr "o &quot;all&#39;indietro&quot; usando"
+msgstr "o \"all'indietro\" usando"
 
 msgid "). If a radio button was already selected, navigating with the keyboard should set focus to that particular radio button. Only one radio button in a group should receive focus at any given time. Ensure that the selected radio button can be changed by using the"
 msgstr "). Se un pulsante di opzione è già selezionato, la navigazione con la tastiera dovrebbe impostare il focus su quel particolare pulsante di opzione. Solo un pulsante di opzione in un gruppo dovrebbe ricevere il focus in un dato momento. Assicurarsi che il pulsante di opzione selezionato possa essere modificato utilizzando"
@@ -6733,7 +6733,7 @@ msgid "Radio 3"
 msgstr "Radio 3"
 
 msgid "Collapse"
-msgstr "Crollo"
+msgstr "Comprimi"
 
 msgid "Collapsible Group Item #1"
 msgstr "Articolo di gruppo pieghevole n. 1"
@@ -6751,10 +6751,10 @@ msgid "Collapsible Group Item with XSS in data-bs-parent"
 msgstr "Elemento di gruppo comprimibile con XSS in data-bs-parent"
 
 msgid "Toast"
-msgstr "Pane abbrustolito"
+msgstr "Toast"
 
 msgid "Show toast"
-msgstr "Mostra brindisi"
+msgstr "Mostra toast"
 
 msgid "Hide toast"
 msgstr "Nascondi il toast"
@@ -6763,7 +6763,7 @@ msgid "Bootstrap"
 msgstr "Bootstrap"
 
 msgid "Hello, world! This is a toast message with"
-msgstr "Ciao, mondo! Questo è un messaggio di brindisi con"
+msgstr "Ciao, mondo! Questo è un messaggio di toast con"
 
 msgid "autohide"
 msgstr "nascondi automaticamente"
@@ -6841,7 +6841,7 @@ msgid "Click into this input:"
 msgstr "Clicca su questo input:"
 
 msgid "Switch to the other tab and then back to this tab."
-msgstr "Passa all&#39;altra scheda e poi torna a questa."
+msgstr "Passa all'altra scheda e poi torna a questa."
 
 msgid "Test result:"
 msgstr "Risultato del test:"
@@ -6856,7 +6856,7 @@ msgid "Launch demo modal"
 msgstr "Avvia la demo modale"
 
 msgid "Toggle tall &lt;body&gt; content"
-msgstr "Attiva/disattiva il contenuto alto &lt;body&gt;"
+msgstr "Attiva/disattiva il contenuto alto &lt;body&gt"
 
 msgid "Launch Firefox bug test modal"
 msgstr "Avvia la modalità di test dei bug di Firefox"
@@ -6871,7 +6871,7 @@ msgid "Tall body content to force the page to have a scrollbar."
 msgstr "Contenuto del corpo alto per forzare la presenza di una barra di scorrimento nella pagina."
 
 msgid "Modal with an XSS inside the data-bs-target"
-msgstr "Modale con un XSS all&#39;interno del data-bs-target"
+msgstr "Modale con un XSS all'interno del data-bs-target"
 
 msgid "Launch prevented modal on hide (to see the result open your console)"
 msgstr "Avvio impedito modale su nascondi (per vedere il risultato apri la tua console)"
@@ -6970,7 +6970,7 @@ msgid "Vvveb - Password recover"
 msgstr "Vvveb - Recupero password"
 
 msgid "Enter your account email and we will send you a reset link to change your password."
-msgstr "Inserisci l&#39;indirizzo email del tuo account e ti invieremo un link per reimpostare la password."
+msgstr "Inserisci l'indirizzo email del tuo account e ti invieremo un link per reimpostare la password."
 
 msgid "Vvveb - Downloads"
 msgstr "Vvveb - Download"
@@ -7006,7 +7006,7 @@ msgid "Please complete the form below to register your return request."
 msgstr "Compila il modulo sottostante per registrare la tua richiesta di reso."
 
 msgid "Order Information"
-msgstr "Informazioni sull&#39;ordine"
+msgstr "Informazioni sull'ordine"
 
 msgid "E-Mail"
 msgstr "E-mail"
@@ -7027,7 +7027,7 @@ msgid "Ordered wrong product or size"
 msgstr "Prodotto o taglia sbagliati ordinati"
 
 msgid "Received wrong item"
-msgstr "Ho ricevuto l&#39;articolo sbagliato"
+msgstr "Ho ricevuto l'articolo sbagliato"
 
 msgid "Product did not match the description"
 msgstr "Il prodotto non corrisponde alla descrizione"
@@ -7108,7 +7108,7 @@ msgid "Vvveb has all the features you will need to manage your content or sell o
 msgstr "Vvveb ha tutte le funzionalità di cui hai bisogno per gestire i tuoi contenuti o vendere online."
 
 msgid "It includes a page builder, has full internationalization support, advanced ecommerce features, security."
-msgstr "Include un page builder, offre supporto completo per l&#39;internazionalizzazione, funzionalità avanzate di e-commerce e sicurezza."
+msgstr "Include un page builder, offre supporto completo per l'internazionalizzazione, funzionalità avanzate di e-commerce e sicurezza."
 
 msgid "And with the integrated extensions marketplace you can extend it for any purpose."
 msgstr "E con il marketplace delle estensioni integrato puoi estenderlo per qualsiasi scopo."
@@ -7128,9 +7128,9 @@ msgstr "/admin-0j57bgw"
 msgid "login page for admin to protect against password brute force attacks."
 msgstr "pagina di accesso per l&#39;amministratore per proteggersi dagli attacchi brute force sulle password."
 
-#, php-format
+#, no-php-format
 msgid "Vvveb is 100% safe against sql injections a vulnerability that affects many CMSes."
-msgstr "Vvveb è sicuro al 100% contro le iniezioni SQL, una vulnerabilità che colpisce molti CMS."
+msgstr "Vvveb è sicuro al 100% contro le sql injections, una vulnerabilità che coinvolge molti CMS."
 
 msgid "Document root folder can be set to /public to expose only index.php to minimize attack surface and protect plugins php files from exposure."
 msgstr "La cartella radice del documento può essere impostata su /public per esporre solo index.php, riducendo al minimo la superficie di attacco e proteggendo i file php dei plugin dall&#39;esposizione."
@@ -7151,16 +7151,16 @@ msgid "Role-based access and permissions."
 msgstr "Accesso e autorizzazioni basati sui ruoli."
 
 msgid "Action level access management for each role"
-msgstr "Gestione dell&#39;accesso a livello di azione per ogni ruolo"
+msgstr "Gestione dell'accesso a livello di azione per ogni ruolo"
 
 msgid "Control role permission for both dashboard and GraphQL and Rest APIs."
-msgstr "Controlla l&#39;autorizzazione del ruolo sia per la dashboard che per le API GraphQL e REST."
+msgstr "Controlla l'autorizzazione del ruolo sia per la dashboard che per le API GraphQL e REST."
 
 msgid "With language packs use the interface in the language you like."
-msgstr "Con i pacchetti linguistici puoi utilizzare l&#39;interfaccia nella lingua che preferisci."
+msgstr "Con i pacchetti linguistici puoi utilizzare l'interfaccia nella lingua che preferisci."
 
 msgid "All modern ecommerce features are available"
-msgstr "Sono disponibili tutte le funzionalità moderne dell&#39;e-commerce"
+msgstr "Sono disponibili tutte le funzionalità moderne dell'e-commerce"
 
 msgid "Multiple payment methods"
 msgstr "Molteplici metodi di pagamento"
@@ -7187,7 +7187,7 @@ msgid "Run your blog, store, portfolio everything from the same dashboard."
 msgstr "Gestisci il tuo blog, il tuo negozio, il tuo portfolio e tutto dalla stessa dashboard."
 
 msgid "SEO out of the box"
-msgstr "SEO pronta all&#39;uso"
+msgstr "SEO pronta all'uso"
 
 msgid "Optimized for Lighthouse 100% high score"
 msgstr "Ottimizzato per Lighthouse 100% punteggio elevato"
@@ -7268,19 +7268,19 @@ msgid "Post title"
 msgstr "Titolo del post"
 
 msgid "Meet the author"
-msgstr "Incontra l&#39;autore"
+msgstr "Incontra l'autore"
 
 msgid "My bio"
 msgstr "La mia biografia"
 
 msgid "All author posts"
-msgstr "Tutti i post dell&#39;autore"
+msgstr "Tutti i post dell'autore"
 
 msgid "Your comment is awaiting moderation."
 msgstr "Il tuo commento è in attesa di moderazione."
 
 msgid "This is a preview, your comment will be visible after it has been approved."
-msgstr "Questa è un&#39;anteprima, il tuo commento sarà visibile dopo essere stato approvato."
+msgstr "Questa è un'anteprima, il tuo commento sarà visibile dopo essere stato approvato."
 
 msgid "This is a reply comment."
 msgstr "Questo è un commento di risposta."
@@ -7313,10 +7313,10 @@ msgid "#4458"
 msgstr "#4458"
 
 msgid "has been placed!"
-msgstr "è stato posizionato!"
+msgstr "è stato inserito!"
 
 msgid "You will soon receive an email to inform you of the status of your order once it's processed."
-msgstr "Riceverai presto un&#39;e-mail che ti informerà sullo stato del tuo ordine una volta elaborato."
+msgstr "Riceverai presto un'e-mail che ti informerà sullo stato del tuo ordine una volta elaborato."
 
 msgid "I already have an account"
 msgstr "Ho già un account"
@@ -7340,7 +7340,7 @@ msgid "I want to use a new billing address"
 msgstr "Voglio utilizzare un nuovo indirizzo di fatturazione"
 
 msgid "Company Name"
-msgstr "Nome dell&#39;azienda"
+msgstr "Nome dell'azienda"
 
 msgid "Street address"
 msgstr "Indirizzo"
@@ -7361,10 +7361,10 @@ msgid "Credit card description"
 msgstr "Descrizione della carta di credito"
 
 msgid "Order Notes"
-msgstr "Note sull&#39;ordine"
+msgstr "Note sull'ordine"
 
 msgid "Place order"
-msgstr "Effettuare l&#39;ordine"
+msgstr "Effettuare l'ordine"
 
 msgid "Thank you!"
 msgstr "Grazie!"
@@ -7418,7 +7418,7 @@ msgid "Shop Page"
 msgstr "Pagina del negozio"
 
 msgid "For ecommerce use a full featured theme like the default"
-msgstr "Per l&#39;e-commerce usa un tema completo come quello predefinito"
+msgstr "Per l'e-commerce usa un tema completo come quello predefinito"
 
 msgid "Landing theme"
 msgstr "Tema di atterraggio"
@@ -7751,7 +7751,7 @@ msgid "Twitter data 21"
 msgstr "Dati Twitter 21"
 
 msgid "Structured data"
-msgstr "dati strutturati"
+msgstr "Dati strutturati"
 
 msgid "Book actions"
 msgstr "Azioni del libro"
@@ -7793,7 +7793,7 @@ msgid "Home activities"
 msgstr "Attività domestiche"
 
 msgid "Image metadata"
-msgstr "Metadati dell&#39;immagine"
+msgstr "Metadati dell'immagine"
 
 msgid "Job posting"
 msgstr "Pubblicazione di lavoro"
@@ -7865,10 +7865,10 @@ msgid "Two factor authentication"
 msgstr "Autenticazione a due fattori"
 
 msgid "Download and start the authenticator app"
-msgstr "Scarica e avvia l&#39;app di autenticazione"
+msgstr "Scarica e avvia l'app di autenticazione"
 
 msgid "From the app scan the QR code"
-msgstr "Dall&#39;app scansiona il codice QR"
+msgstr "Dall'app scansiona il codice QR"
 
 msgid "Enter the code and enable 2FA"
 msgstr "Inserisci il codice e abilita 2FA"
@@ -8089,7 +8089,7 @@ msgid "No sites added yet!"
 msgstr "Nessun sito aggiunto ancora!"
 
 msgid "Admin Dashboard"
-msgstr "Dashboard di amministrazione"
+msgstr "Pannello di ontrollo di amministrazione"
 
 msgid "www.vvveb.com/admin"
 msgstr "www.vvveb.com/admin"
@@ -8122,7 +8122,7 @@ msgid "From your domain registar dns settings add a new \"A\" record pointing to
 msgstr "Dalle impostazioni DNS del tuo registrar di dominio aggiungi un nuovo record &quot;A&quot; che punti a"
 
 msgid "example.com"
-msgstr "esempio.com"
+msgstr "esempio.it"
 
 msgid "Record type:"
 msgstr "Tipo di record:"
@@ -8281,7 +8281,7 @@ msgid "Set up your own instance"
 msgstr "Configura la tua istanza"
 
 msgid "Avatar size"
-msgstr "Dimensione dell&#39;avatar"
+msgstr "Dimensione dell'avatar"
 
 msgid "Flip"
 msgstr "Capovolgere"
@@ -8314,7 +8314,7 @@ msgid "Import"
 msgstr "Importare"
 
 msgid "elFinder 2.1.x source version with PHP connector"
-msgstr "Versione sorgente di elFinder 2.1.x con connettore PHP"
+msgstr "versione sorgente di elFinder 2.1.x con connettore PHP"
 
 msgid "Vvveb - File manager"
 msgstr "Vvveb - Gestore file"
@@ -8359,7 +8359,7 @@ msgid "Your OpenAPI url here"
 msgstr "Il tuo URL OpenAPI qui"
 
 msgid "The Authress API is an example OpenAPI loaded to show how the OpenAPI Explorer works. Try it out with your own OpenAPI spec, but using the load url in the navigation bar at the top of the screen."
-msgstr "L&#39;API Authress è un esempio di OpenAPI caricato per mostrare il funzionamento di OpenAPI Explorer. Provalo con le tue specifiche OpenAPI, ma utilizzando l&#39;URL di caricamento nella barra di navigazione in alto sullo schermo."
+msgstr "L'API Authress è un esempio di OpenAPI caricato per mostrare il funzionamento di OpenAPI Explorer. Provalo con le tue specifiche OpenAPI, ma utilizzando l'URL di caricamento nella barra di navigazione in alto sullo schermo."
 
 msgid "Sign up for Authress"
 msgstr "Iscriviti ad Authress"
@@ -8374,7 +8374,7 @@ msgid "theme market"
 msgstr "mercato tematico"
 
 msgid "Author Dashboard"
-msgstr "Dashboard dell&#39;autore"
+msgstr "Pannello di controllo dell'autore"
 
 msgid "Your themes"
 msgstr "I tuoi temi"
@@ -8449,7 +8449,7 @@ msgid "Import local Wordpress data"
 msgstr "Importa dati locali di WordPress"
 
 msgid "Upload a Wordpress xml file to start importing"
-msgstr "Carica un file XML di Wordpress per iniziare l&#39;importazione"
+msgstr "Carica un file XML di Wordpress per iniziare l'importazione"
 
 msgid "Missing admin table or data, remove config/db.php to reinstall!"
 msgstr "Tabella di amministrazione o dati mancanti, rimuovere config/db.php per reinstallarlo!"
@@ -8466,19 +8466,19 @@ msgstr "Hai bisogno almeno di PHP %s, la tua versione attuale è %s"
 
 #, php-format
 msgid "PHP extension %s is not installed"
-msgstr "L&#39;estensione PHP %s non è installata"
+msgstr "L'estensione PHP %s non è installata"
 
 #, php-format
 msgid "\"%s\" is not writable"
-msgstr "&quot;%s&quot; non è scrivibile"
+msgstr "\"%s\" non è scrivibile"
 
 #, php-format
 msgid "Db error: \"%s\" Error code: \"%s\""
-msgstr "Errore database: &quot;%s&quot; Codice errore: &quot;%s&quot;"
+msgstr "Errore database: \"%s\" Codice errore:\"%s\""
 
 #, php-format
 msgid "Renaming admin login path from %s to %s failed! use /admin/index.php path to login"
-msgstr "La ridenominazione del percorso di accesso dell&#39;amministratore da %s a %s non è riuscita! Utilizzare il percorso /admin/index.php per accedere"
+msgstr "La ridenominazione del percorso di accesso dell'amministratore da %s a %s non è riuscita! Utilizzare il percorso /admin/index.php per accedere"
 
 msgid "Installation succesful!"
 msgstr "Installazione riuscita!"
@@ -8548,13 +8548,13 @@ msgid "Product(s) deleted!"
 msgstr "Prodotto/i eliminato/i!"
 
 msgid "Error deleting product!"
-msgstr "Errore durante l&#39;eliminazione del prodotto!"
+msgstr "Errore durante l'eliminazione del prodotto!"
 
 msgid "No translation"
 msgstr "Nessuna traduzione"
 
 msgid "s"
-msgstr "S"
+msgstr "s"
 
 msgid "Translations saved!"
 msgstr "Traduzioni salvate!"
@@ -8571,7 +8571,7 @@ msgid "Error saving %s file!"
 msgstr "Errore durante il salvataggio del file %s!"
 
 msgid "Error deleting file!"
-msgstr "Errore durante l&#39;eliminazione del file!"
+msgstr "Errore durante l'eliminazione del file!"
 
 msgid "File deleted!"
 msgstr "File eliminato!"
@@ -8672,10 +8672,10 @@ msgid "Settings saved!"
 msgstr "Impostazioni salvate!"
 
 msgid "This is a test email to confirm that email is properly configured!"
-msgstr "Questa è un&#39;e-mail di prova per confermare che la posta elettronica sia configurata correttamente!"
+msgstr "Questa è un'e-mail di prova per confermare che la posta elettronica sia configurata correttamente!"
 
 msgid "Error sending mail!"
-msgstr "Errore durante l&#39;invio della posta!"
+msgstr "Errore durante l'invio della posta!"
 
 msgid "Test email"
 msgstr "Email di prova"
@@ -8703,20 +8703,20 @@ msgid "Order(s) deleted!"
 msgstr "Ordine/i cancellato/i!"
 
 msgid "Error deleting order!"
-msgstr "Errore durante l&#39;eliminazione dell&#39;ordine!"
+msgstr "Errore durante l'eliminazione dell'ordine!"
 
 msgid "Order not found!"
 msgstr "Ordine non trovato!"
 
 msgid "Error sending order confirmation mail!"
-msgstr "Errore durante l&#39;invio dell&#39;e-mail di conferma dell&#39;ordine!"
+msgstr "Errore durante l&#39;invio dell'e-mail di conferma dell'ordine!"
 
 #, php-format
 msgid "Order update #%s"
 msgstr "Aggiornamento ordine #%s"
 
 msgid "Order status saved!"
-msgstr "Stato dell&#39;ordine salvato!"
+msgstr "Stato dell'ordine salvato!"
 
 msgid "Order saved"
 msgstr "Ordine salvato"
@@ -8775,7 +8775,7 @@ msgid "This username is already in use. Please use another one."
 msgstr "Questo nome utente è già in uso. Utilizzane un altro."
 
 msgid "Error creating account!"
-msgstr "Errore durante la creazione dell&#39;account!"
+msgstr "Errore durante la creazione dell'account!"
 
 msgid "Password was reset!"
 msgstr "La password è stata reimpostata!"
@@ -8793,10 +8793,10 @@ msgid "Password reset"
 msgstr "Reimpostazione della password"
 
 msgid "A reset email was sent, please use it to reset your password!"
-msgstr "È stata inviata un&#39;e-mail per reimpostare la password. Utilizzala per reimpostare la password!"
+msgstr "È stata inviata un'e-mail per reimpostare la password. Utilizzala per reimpostare la password!"
 
 msgid "Error sending reset email!"
-msgstr "Errore durante l&#39;invio dell&#39;email di reimpostazione!"
+msgstr "Errore durante l'invio dell'email di reimpostazione!"
 
 msgid "Email not found!"
 msgstr "Email non trovata!"
@@ -8828,11 +8828,11 @@ msgstr "Attivazione del plugin %s..."
 
 #, php-format
 msgid "Plugin \"%s\" removed!"
-msgstr "Plugin &quot;%s&quot; rimosso!"
+msgstr "Plugin \"%s\" rimosso!"
 
 #, php-format
 msgid "Error removing \"%s\" plugin!"
-msgstr "Errore durante la rimozione del plugin &quot;%s&quot;!"
+msgstr "Errore durante la rimozione del plugin \"%s\"!"
 
 #, php-format
 msgid "Error uploading %s!"
@@ -8851,7 +8851,7 @@ msgstr "Impossibile installare il plugin %s!"
 
 #, php-format
 msgid "Error activating plugin `%s`!"
-msgstr "Errore durante l&#39;attivazione del plugin `%s`!"
+msgstr "Errore durante l'attivazione del plugin `%s`!"
 
 #, php-format
 msgid "Plugin `%s` activated!"
@@ -8862,7 +8862,7 @@ msgstr "Controlla i permessi del file di configurazione!"
 
 #, php-format
 msgid "Installing \"%s\""
-msgstr "Installazione di &quot;%s&quot;"
+msgstr "Installazione di \"%s\""
 
 #, php-format
 msgid "Downloading \"%s\""
@@ -9452,7 +9452,7 @@ msgstr "%s zip non dovrebbe contenere altri file oltre alla cartella %s!"
 
 #, php-format
 msgid "%s slug `%s` does not match folder %s!"
-msgstr "Lo slug `%s` non corrisponde alla cartella %s!"
+msgstr "Lo %s slug `%s` non corrisponde alla cartella %s!"
 
 #, php-format
 msgid "No `%s.php` info found inside zip!"
